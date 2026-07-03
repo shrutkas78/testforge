@@ -224,7 +224,7 @@ mvn allure:serve
 
 QA Automation Engineer with 3 years of experience in manual and automation testing (Selenium, REST Assured, TestNG) across e-commerce and enterprise applications. Building in public as I deepen my SDET and DevOps skills.
 
-- LinkedIn: [your-linkedin]
+- LinkedIn: [[my-linkedin](https://www.linkedin.com/in/shruti-kashyap55/)]
 - Fiverr/Upwork: available for automation projects
 
 ## 📄 License
